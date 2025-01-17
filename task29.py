@@ -1,8 +1,8 @@
 num = int(input("Введите трехзначное число: "))
 
-hundreds = num // 100  
-tens = (num // 10) % 10  
-ones = num % 10  
+hundreds = num // 100
+tens = (num // 10) % 10
+ones = num % 10
 
 square_of_num = num ** 2
 sum_of_cubes = (hundreds ** 3) + (tens ** 3) + (ones**3)

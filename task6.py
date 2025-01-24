@@ -7,4 +7,3 @@ elif b > a:
     print("больше:", b)
 else:
     print("числа равны")
-    
